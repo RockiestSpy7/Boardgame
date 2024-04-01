@@ -125,6 +125,6 @@
 	    <id>maven-snapshots</id>
 	    <url>http://34.227.30.210:8081/repository/maven-snapshots/</url>
 	</snapshotRepository>
-    </distributedManagement>
+    </distributionManagement>
 
 </project>
